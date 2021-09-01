@@ -6,7 +6,7 @@
     </h2>
 
 ### About:
-Chat app that allows for signing up, logging in, signing out and chatting with other registered users. Connects to MSQL database
+Chat app that allows for signing up, logging in, signing out and chatting with other registered users. Connects to MSQL database.
 
 ### Tools:
 * PHP, MSQL, JavaScript & AJAX
