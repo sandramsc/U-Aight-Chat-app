@@ -13,3 +13,6 @@ Chat app that allows for signing up, logging in, signing out and chatting with o
    
   ## Sample Example
 ![Vtf1OG80I1](https://user-images.githubusercontent.com/19821445/131676058-90313347-787c-47bf-9773-becad62df1df.gif)
+
+## License
+[![GitLicense](https://gitlicense.com/badge/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work)](https://github.com/sajustsmile/U-Aight-Chat-app--PHP-work/edit/blob/main/LICENSE)
