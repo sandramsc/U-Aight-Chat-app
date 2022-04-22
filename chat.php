@@ -1,3 +1,4 @@
+//Designed & coded by Sandra Ashipala <https://github.com/sandramsc> 
 <?php 
     session_start();
     if(!isset($_SESSION['unique_id'])){
