@@ -1,3 +1,4 @@
+//Designed & coded by Sandra Ashipala <https://github.com/sandramsc> 
 <?php include_once "header.php";?>
 <!--Session is set when a user logs in or signs up, if not set then user is redirected to login page-->
 <?php 
