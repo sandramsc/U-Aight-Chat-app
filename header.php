@@ -1,3 +1,4 @@
+/* Designed & coded by Sandra Ashipala <https://github.com/sandramsc> */
 <!DOCTYPE html>
 <!--since head tag is the same in all php files, this one file is created and included in all php files-->
 <html lang="en">
